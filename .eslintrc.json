@@ -1,0 +1,22 @@
+{
+  "extends": [
+    "react-app"
+  ],
+  "rules": {
+    "no-unused-vars": "error",
+    "no-multiple-empty-lines": "error",
+    "curly": [
+      2,
+      "all"
+    ],
+    "@typescript-eslint/no-angle-bracket-type-assertion": "off",
+    "no-useless-escape": "warn",
+    "jsx-a11y/alt-text": "warn",
+    "jsx-a11y/click-events-have-key-events": "warn",
+    "jsx-a11y/no-static-element-interactions": "warn",
+    "jsx-a11y/img-redundant-alt": "warn",
+    "jsx-a11y/no-onchange": "warn",
+    "jsx-a11y/no-autofocus": "warn",
+    "jsx-a11y/accessible-emoji": "off"
+  }
+}
